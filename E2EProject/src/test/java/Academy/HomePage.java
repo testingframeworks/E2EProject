@@ -50,6 +50,7 @@ public class HomePage extends base{
 	   LandingPage l = new LandingPage(driver);
 	   l.verifyWomensOption();
 	   log.info("The Overlay opened successfully");
+	   log.info("The overlay opened success");
 	   
 	   
 	}
